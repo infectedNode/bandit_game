@@ -17,3 +17,18 @@ topics: ls, cd, cat, file, du, find
 user: bandit2
 pass: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 topics: ls, cd, cat, file, du, find
+
+#Level 3
+user: bandit3
+pass: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+topics: ls, cd, cat, file, du, find
+
+#Level 4
+user: bandit4
+pass: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+topics: ls, cd, cat, file, du, find
+
+#Level 5
+user: bandit5
+pass: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+topics: ls, cd, cat, file, du, find
