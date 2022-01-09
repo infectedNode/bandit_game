@@ -1,6 +1,8 @@
 Host: bandit.labs.overthewire.org
 Port: 2220
 
+Cmd: ssh banditX@bandit.labs.overthewire.org -p 2220
+
 #Level 0
 user: bandit0
 pass: bandit0
@@ -9,4 +11,9 @@ topics: "ssh"
 #Level 1
 user: bandit1
 pass: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+topics: ls, cd, cat, file, du, find
+
+#Level 2
+user: bandit2
+pass: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 topics: ls, cd, cat, file, du, find
