@@ -32,3 +32,8 @@ topics: ls, cd, cat, file, du, find
 user: bandit5
 pass: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 topics: ls, cd, cat, file, du, find
+
+#Level 6
+user: bandit6
+pass: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+topics: ls, cd, cat, file, du, find, grep
