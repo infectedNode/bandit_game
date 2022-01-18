@@ -37,3 +37,8 @@ topics: ls, cd, cat, file, du, find
 user: bandit6
 pass: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 topics: ls, cd, cat, file, du, find, grep
+
+#Level 7
+user: bandit7
+pass: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+topics: grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
