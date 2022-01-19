@@ -47,3 +47,8 @@ topics: grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 user: bandit8
 pass: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 topics: grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+
+#Level 9
+user: bandit9
+pass: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+topics: grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
