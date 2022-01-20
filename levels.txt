@@ -72,3 +72,8 @@ topics: grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp,
 user: bandit13
 pass: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 topics: ssh, telnet, nc, openssl, s_client, nmap
+
+#Level 14
+user: bandit14
+pass: 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+topics: ssh, telnet, nc, openssl, s_client, nmap
