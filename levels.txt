@@ -66,4 +66,4 @@ topics: grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 #Level 12
 user: bandit12
 pass: 5te8y4dRgCrfCX8UgdWUEx8KFC6k2EuU
-topics: grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+topics: grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, file
